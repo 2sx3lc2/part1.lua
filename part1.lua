@@ -22953,5 +22953,3 @@ else
 																																																																																							tbl17.aG()
 																																																																																							local v115 = tbl17.aH()
 																																																																																							local v116 = tbl17.aX()
-
-																																																																																							local function fn36()
